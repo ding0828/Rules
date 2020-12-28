@@ -1,5 +1,5 @@
-#!name=Custom
-#!desc=Aweme app removes ads.
+#!name=Custom Rule
+#!desc=自定義規則
 
 [Rule]
 DOMAIN-SUFFIX,iphonenews.cc, 🍃 Proxy
