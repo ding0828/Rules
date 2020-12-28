@@ -9,8 +9,8 @@ DOMAIN-SUFFIX,pchome.com.tw, 🍃 Proxy
 DOMAIN-SUFFIX,doub.io, 🍃 Proxy
 DOMAIN-SUFFIX,airspace.com.tw, 🍃 Proxy
 DOMAIN-SUFFIX,kuaichedao.co, 🍃 Proxy
-DOMAIN,hichannel.hinet.net, 🇹🇼 Taiwan 01 | x1 | Standard
-DOMAIN,radio-hichannel.cdn.hinet.net, 🇹🇼 Taiwan 01 | x1 | Standard
+DOMAIN,hichannel.hinet.net, 🇹🇼 Taiwan 05 | x3 | VIP1
+DOMAIN,radio-hichannel.cdn.hinet.net, 🇹🇼 Taiwan 05 | x3 | VIP1
 DOMAIN-SUFFIX,hinet.net, DIRECT
 DOMAIN-SUFFIX,tutormeetplus.com, DIRECT
 DOMAIN-SUFFIX,tutorabc.com.cn, DIRECT
