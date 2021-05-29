@@ -2,6 +2,10 @@
 #!desc=自定義規則
 
 [Rule]
+DOMAIN-SUFFIX,itread01.com, 🍃 Proxy
+DOMAIN-SUFFIX,tsrtwftp.chinesegamer.net, 🍃 Proxy
+DOMAIN-SUFFIX,sspanel.host, 🇹🇼 Taiwan 05 | x3 | VIP1
+DOMAIN-SUFFIX,dcard.tw, 🇹🇼 Taiwan 05 | x3 | VIP1
 DOMAIN-SUFFIX,iphonenews.cc, 🍃 Proxy
 DOMAIN-SUFFIX,bahamut.com.tw, 🍃 Proxy
 DOMAIN-SUFFIX,ecimg.tw, 🍃 Proxy
@@ -15,7 +19,10 @@ DOMAIN-SUFFIX,hinet.net, DIRECT
 DOMAIN-SUFFIX,tutormeetplus.com, DIRECT
 DOMAIN-SUFFIX,tutorabc.com.cn, DIRECT
 DOMAIN-SUFFIX,vipjr.com, DIRECT
+DOMAIN-SUFFIX,pahx.com, DIRECT
 DOMAIN-SUFFIX,pa18.com, DIRECT
+DOMAIN-SUFFIX,pingan.com.cn, DIRECT
+DOMAIN-SUFFIX,pingan.com, DIRECT
 DOMAIN-SUFFIX,dingww.com, 🍃 Proxy, force-remote-dns
 DOMAIN-SUFFIX,dingfast.com, DIRECT
 DOMAIN-SUFFIX,qiang.today, DIRECT
